@@ -1,5 +1,5 @@
-Intervalos Rancios (P2) (---=rango (*1000 para estar en microes), ---=paso entre intervalos)
-Del 3(4) al 513 (2-1=1) (513-514=1,5) impar (par) (509 intervalos)
+Intervalos usados en la pregunta 2 # (---=rango o paso entre intervalos (*1000 para estar en micrones))
+Del 3(4) al 513 (2-1=1) (513-514=1,5) impar (par) (509 intervalos) #los numeros en "()" corresponden al cambio para hacer el intervalo par
 Del 514 al 1449 (515-514=2) (1450-1449=20) par (934 int)
 Del 1450(49) al 1574 (1551-1550=20) (1575-1574=50) impar (par) (123 int)
 Del 1575 al 1673(4) (1576-1575=50) (1674-1673=50) impar (par) (97  int)
@@ -10,4 +10,4 @@ Del 1691 al 1693 (1692-1691=20000) (1694-1693=30000) par (2 int)
 Del 1694 al 1696 (1695-1694=50000) (1697-1696=50000) par (2 int)
 Del 1697 al 1698 (-=100000) impar
 Último 1699=1M impar
-(son 2 lineas menos por el nombre) (la diferencia esta en long de onda en nanometros y no micrones (1000nm=micron)
+(son 2 lineas menos por el nombre, ie, los coeficientes van del 0 al 1696) (la diferencia esta en long de onda en nanometros y no micrones (1000nm=micron)
